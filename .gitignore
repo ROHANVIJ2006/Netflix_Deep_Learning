@@ -16,11 +16,6 @@ __pycache__/
 
 # Project specific
 scratch/
-model/*.pkl
-model/*.csv
-# Note: I am NOT ignoring model files because Vercel needs them and the user likely wants them in the repo for deployment.
-# However, if they are too big, I should ignore them. 
-# They are small (~10KB), so it's fine.
 
 # Logs
 *.log

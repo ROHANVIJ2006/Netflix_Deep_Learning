@@ -1,0 +1,83 @@
+Genre,Review Highlights,Average Rating,Age Category
+Drama,"""Will Smith’s struggle hit hard. A must-watch!"" / ""Overly sentimental but inspiring.""",9.1,2
+Documentary,"""Eye-opening about tech addiction."" / ""Some claims feel exaggerated.""",8.2,2
+Thriller/Drama,"""Masterpiece on class inequality."" / ""Too dark for some viewers.""",9.3,2
+Comedy/Family,"""Pure joy! Teaches kindness effortlessly."" / ""Not for edgy viewers.""",8.8,2
+Sci-Fi,"""Mind-bending brilliance."" / ""Confusing plot.""",9.0,2
+Comedy/Drama,"""Perfect coming-of-age film."" / ""Slow pacing.""",8.6,2
+Documentary,"""Essential viewing on systemic racism."" / ""Heavy but necessary.""",8.9,2
+Romance/Drama,"""Sweet LGBTQ+ story."" / ""Predictable plot.""",8.0,2
+Drama,"""J.K. Simmons is terrifyingly great."" / ""Glorifies toxic mentorship.""",9.2,2
+Animation,"""Beautiful tribute to family and culture."" / ""Slow start.""",9.4,2
+Drama,"""Raw portrayal of mental health."" / ""Romance feels forced.""",8.3,2
+Historical Drama,"""Timely and powerful."" / ""Sacha Baron Cohen steals the show.""",8.6,2
+Drama,"""Anya Taylor-Joy is mesmerizing."" / ""Ignores chess realism.""",8.9,2
+Animation,"""Poetic and surreal."" / ""Too abstract for some.""",8.4,2
+Drama,"""Heartbreakingly real."" / ""No traditional plot.""",8.2,2
+Drama,"""Visually stunning."" / ""Pacing is glacial.""",8.5,2
+Crime/Drama,"""Epic Scorsese masterpiece."" / ""Runtime is exhausting.""",8.8,2
+Drama,"""Devastatingly honest."" / ""Too depressing.""",8.6,2
+Comedy,"""Eddie Murphy’s comeback."" / ""Niche appeal.""",8.1,2
+Western,"""Quirky and profound."" / ""Uneven anthology.""",8.3,2
+War/Drama,"""Spike Lee at his best."" / ""Pacing issues.""",8.4,2
+Sci-Fi,"""Visually ambitious."" / ""Plot holes galore.""",6.5,1
+Drama,"""Cinematography masterpiece."" / ""Too niche for casual viewers.""",8.0,2
+Drama,"""Olivia Colman is electric."" / ""Ponderously slow.""",7.8,2
+Satire,"""Hilarious and terrifying."" / ""Too on-the-nose.""",7.9,2
+Drama,"""Cumberbatch’s best role."" / ""Slow burn.""",8.2,2
+Historical Drama,"""Understated beauty."" / ""Pacing too slow.""",7.8,2
+Drama,"""Hauntingly beautiful."" / ""Too abstract.""",7.9,2
+Animation,"""Hilarious and heartfelt."" / ""Over-the-top humor.""",8.7,2
+Adventure,"""Touching animal rights story."" / ""Tonal whiplash.""",8.0,2
+Thriller,"""Gripping single-location drama."" / ""Predictable twists.""",7.7,2
+Drama,"""Scathing class critique."" / ""Pacing lags.""",8.0,2
+Drama,"""Boseman’s final masterpiece."" / ""Stagey feel.""",8.5,2
+Drama,"""Hopkins & Pryce dazzle."" / ""Too talky.""",8.2,2
+Action,"""Non-stop adrenaline."" / ""Plot? What plot?""",7.8,2
+Mystery,"""Millie Bobby Brown charms."" / ""Historically silly.""",7.6,2
+Action,"""Fresh take on immortality."" / ""Formulaic ending.""",7.3,2
+Comedy,"""Joyfully absurd."" / ""Humor misses often.""",7.0,1
+Horror,"""Brutal allegory on greed."" / ""Excessively gory.""",8.0,2
+Thriller,"""Anxiety-inducing brilliance."" / ""Too stressful.""",8.1,2
+War/Drama,"""Devastating child soldier tale."" / ""Graphic violence.""",8.4,2
+Romance,"""Sweet teen romance."" / ""Cliché tropes.""",7.8,2
+Thriller,"""Gothic and grim."" / ""Overly bleak.""",7.7,2
+Horror,"""Claustrophobic terror."" / ""Slow buildup.""",7.9,2
+Horror/Comedy,"""Fun B-movie chaos."" / ""Dumb but fun.""",6.8,1
+Horror,"""Slow-burn dread."" / ""Predictable twist.""",7.3,2
+Thriller,"""Tense apocalypse."" / ""Plot holes abound.""",7.1,2
+Drama,"""Quietly devastating."" / ""Too slow.""",7.9,2
+Romance,"""Charming diversity."" / ""Predictable.""",7.1,2
+Drama,"""Star-studded but messy."" / ""Confusing narrative.""",6.3,1
+Drama,"""Unsettling obsession."" / ""Ethically queasy.""",7.5,2
+Drama,"""Raw infertility struggle."" / ""Exhausting.""",8.0,2
+Thriller,"""Rural nightmare fuel."" / ""Too grim.""",7.8,2
+Comedy/Crime,"""Quirky revenge tale."" / ""Tonal whiplash.""",7.3,2
+Horror,"""Creepy folk horror."" / ""Weak third act.""",7.3,2
+Sci-Fi,"""Thought-provoking."" / ""Poor execution.""",6.8,1
+Drama,"""Gritty sports drama."" / ""Underdeveloped.""",7.5,2
+Thriller,"""Atmospheric mystery."" / ""Incoherent.""",6.9,1
+Action,"""Cheesy fun."" / ""Dated humor.""",6.5,1
+Romance,"""Charming rom-com."" / ""Formulaic.""",7.2,2
+Romance,"""Noah Centineo delivers."" / ""Forgettable.""",6.5,1
+Drama,"""Ellen Page shines."" / ""Morally dubious.""",7.7,2
+Romance,"""Cheesy holiday fluff."" / ""Terrible acting.""",5.9,1
+Sci-Fi,"""Kids save the world."" / ""Cringe dialogue.""",5.8,1
+Thriller,"""Based on true espionage."" / ""Slow.""",7.0,1
+Drama,"""Powerful religious debate."" / ""Too niche.""",7.2,2
+Horror,"""Zombie apocalypse in Quebec."" / ""Silly.""",6.7,1
+Drama,"""Midlife crisis tale."" / ""Boring.""",6.5,1
+Comedy,"""Forgettable cruise comedy."" / ""Harmless fluff.""",6.2,1
+Comedy,"""Poehler & friends riff."" / ""Self-indulgent.""",6.0,1
+Comedy,"""Mom invasion comedy."" / ""Cringe-worthy.""",5.8,1
+Comedy,"""Party girls abroad."" / ""Forgettable.""",5.9,1
+Comedy,"""Sandler vs. Rock."" / ""Unfunny.""",5.5,1
+Comedy,"""Blackly comic scam."" / ""Tone-deaf.""",6.3,1
+Sci-Fi,"""Messy franchise entry."" / ""Confusing.""",5.8,1
+Sci-Fi,"""Neon noir misfire."" / ""Incoherent.""",5.4,1
+Horror,"""Inept horror."" / ""No scares.""",4.5,1
+Action,"""Worst Netflix film?"" / ""Unwatchable.""",4.0,0
+Animation,"""Instant Christmas classic."" / ""Predictable.""",8.7,2
+Drama,"""Chadwick Boseman’s last role."" / ""Theatrical.""",7.9,2
+Drama,"""Devastating childbirth scene."" / ""Graphic.""",8.3,2
+Western,"""Stylish Black cowboy flick."" / ""Style over substance.""",7.6,2
