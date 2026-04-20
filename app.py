@@ -94,11 +94,17 @@ def predict():
     try:
         model = pickle.load(open(MODEL_PATH, "rb"))
         input_data = pd.DataFrame([[genre, review, rating]], columns=["Genre", "Review Highlights", "Average Rating"])
-        prediction = model.predict(input_data)[0]
+        prediction_raw = model.predict(input_data)[0]
+
+        # Map numerical prediction to string if necessary
+        label_map = {0: "Kids", 1: "Teens", 2: "Adults", "0": "Kids", "1": "Teens", "2": "Adults"}
+        prediction = label_map.get(prediction_raw, prediction_raw)
 
         # Recommendations
         if df is not None:
-            recs_df = df[df["Age Category"] == prediction]
+            # Ensure filtering works regardless of type (string/int)
+            recs_df = df[df["Age Category"].astype(str) == str(prediction_raw)]
+            
             if len(recs_df) >= 3:
                 recs = recs_df.sample(3)[["Title", "Genre", "Review Highlights"]].values.tolist()
             elif len(recs_df) > 0:

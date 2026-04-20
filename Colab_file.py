@@ -14,14 +14,15 @@ df = pd.read_csv("D:/DATASET/Netflix.csv", encoding='utf-8')
 
 # Assign age category based on Average Rating
 def assign_age_category(rating):
-    if rating <= 4:
-        return 0  # Kids
-    elif rating <= 7:
-        return 1  # Teens
+    if rating <= 3:
+        return "Kids"
+    elif rating <= 6:
+        return "Teens"
     else:
-        return 2  # Adults
+        return "Adults"
 
-df = df[["Genre", "Review Highlights", "Average Rating"]].dropna()
+df = df[["Movie Title", "Genre", "Review Highlights", "Average Rating"]].dropna()
+df.rename(columns={"Movie Title": "Title"}, inplace=True)
 df["Age Category"] = df["Average Rating"].apply(assign_age_category)
 
 # Features and target
@@ -57,7 +58,7 @@ print(classification_report(y_test, y_pred))
 # Save model
 import os
 os.makedirs("model", exist_ok=True)
-with open("model/pipeline.pkl", "wb") as f:
+with open("model/model.pkl", "wb") as f:
     pickle.dump(pipeline, f)
 
 # Save df with Age Category for Flask app
